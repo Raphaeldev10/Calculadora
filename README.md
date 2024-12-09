@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora simples REACTJS
+Calculadora simples REACT
